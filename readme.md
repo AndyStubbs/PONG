@@ -3,8 +3,7 @@
 A **simple Pong game** built using **Pi.js**, showcasing the library's capabilities for creating 2D games with minimal code. This lightweight project implements the classic Pong mechanics, including player paddles, a bouncing ball, and basic collision handling.
 
 ## View it Online
-You can play Pong by visiting the following link:
-[Pong](https://www.andyswebgames.com/games/pong/)
+You can play Pong by visiting the following link: https://classic.andyswebgames.com/games/pong/
 
 ## Features
 - Classic Pong gameplay.
